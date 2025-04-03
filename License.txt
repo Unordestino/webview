@@ -5,7 +5,7 @@ version 2 or later.
 
 For acknowledgements and licenses of components/resources/etc., see the file
 'KeePass.chm'.
-davi
+ssssssssssssss
                     GNU GENERAL PUBLIC LICENSE
                        Version 2, June 1991
 
